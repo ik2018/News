@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="welcome_string">,, مرحباً بكم في</string>
+    <string name="signing_string">واجهة\nتسجيل الدخول ,,</string>
+    <string name="username_hint_string">إسم المستخدم</string>
+    <string name="passowrd_hint_string">كلمة المرور</string>
+    <string name="signing_btn_string">دخول</string>
+    <string name="register_btn_string">مستخدم جديد</string>
+    <string name="desi_by_string">صمم من قبل بسام</string>
+
+    <string name="error_empty_field">لايمكن ان يكون هذا الحقل فارغ</string>
+    <string name="error_invalid_data">غسم المستخدم او كلمة المرور  غير صحيح</string>
+
+    <string name="title_activity_main">اخر الأخبار</string>
+    <string name="action_refresh">تحديث</string>
+    <string name="action_add">إضافة</string>
+
+    <string name="publish_btn_string">نشر</string>
+
+</resources>

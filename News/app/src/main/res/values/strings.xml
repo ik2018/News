@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Login Form B</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="welcome_string">,, WELCOME TO</string>
+    <string name="signing_string">SIGN IN\nFORM ,,</string>
+    <string name="username_hint_string">Username</string>
+    <string name="passowrd_hint_string">Password</string>
+    <string name="signing_btn_string">SIGN IN</string>
+    <string name="register_btn_string">REGISTER</string>
+    <string name="desi_by_string">DESIGNED BY BASSAM</string>
+    <string name="error_empty_field">Cannt be empty</string>
+    <string name="error_invalid_data">Username or Password is in correct</string>
+    <string name="title_activity_main">Last news</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_add">Add</string>
+    <string name="publish_btn_string">Publish</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
